@@ -6,8 +6,8 @@ class Database:
 
     def __init__(self, uri, database_name):
         self._client = motor.motor_asyncio.AsyncIOMotorClient(uri)
-        self.AshutoshGoswami24 = self._client[database_name]
-        self.col = self.AshutoshGoswami24.user
+        self.Saitama = self._client[database_name]
+        self.col = self.Saitama.user
 
     def new_user(self, id):
         return dict(
@@ -68,4 +68,4 @@ class Database:
         return user.get('media_type', None)
 
 
-AshutoshGoswami24 = Database(Config.DB_URL, Config.DB_NAME)
+Saitama = Database(Config.DB_URL, Config.DB_NAME)
