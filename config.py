@@ -36,9 +36,9 @@ class Txt(object):
     
 ➻ Use /tutorial Command To Know How To Use Me.
 
-<b>Bot Is Made By @PandaWep</b>
+<b>Bot Is Made By anonymous </b>
 
-<b><a href='https://github.com/AshutoshGoswami24/Auto-Rename-Bot'>AshutoshGoswami24/Auto-Rename-Bot.git</a></b>
+<b>None</b>
 """
     
     FILE_NAME_TXT = """<b><u>SETUP AUTO RENAME FORMAT</u></b>
@@ -48,7 +48,7 @@ Use These Keywords To Setup Custom File Name
 ✓ episode :- To Replace Episode Number
 ✓ quality :- To Replace Video Resolution
 
-<b>➻ Example :</b> <code> /autorename Naruto Shippuden S02 - EPepisode - quality  [Dual Audio] - @PandaWep </code>
+<b>➻ Example :</b> <code> /autorename Dragon ball Z S02 - Episode - quality  [Dual Audio] - @anime_swordsmith </code>
 
 <b>➻ Your Current Auto Rename Format :</b> <code>{format_template}</code> """
     
@@ -56,10 +56,10 @@ Use These Keywords To Setup Custom File Name
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/PandaWep'>PandaWep</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/PandaWep'>PandaWep</a>
+<b>📢 Channel :</b> <a href='https://t.me/anime_swordsmith'>Anime Swordsmith </a>
+<b>🧑‍💻 Developer :</b> Anonymous</a>
     
-<b>♻️ Bot Made By :</b> @PandaWep"""
+<b>♻️ Bot Made By :</b> Anonymous"""
 
     
     THUMBNAIL_TXT = """<b><u>🖼️  HOW TO SET THUMBNAIL</u></b>
@@ -81,7 +81,7 @@ Use These Keywords To Setup Custom File Name
 ┣⪼ ⏳️ Dᴏɴᴇ : {0}%
 ┣⪼ 🚀 Sᴩᴇᴇᴅ: {3}/s
 ┣⪼ ⏰️ Eᴛᴀ: {4}
-┣⪼ 🥺 joine Plz: @PandaWep
+┣⪼ 🥺 joine Plz: @anime_epic
 ╰━━━━━━━━━━━━━━━➣ </b>"""
     
     
